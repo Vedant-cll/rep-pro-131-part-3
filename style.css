@@ -1,0 +1,60 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-size : cover ;
+ 
+}
+
+#link{
+    font-size: 30px;
+    font-weight:900;
+    background-color: rgba(255, 0, 0, 0.486);
+    border-radius: 25px;
+    height: 80px;
+    width: 400px;
+    background-size: 100px;
+padding: 13px;
+padding-left: 115px;
+padding-right: 115px;
+color: white;
+font-family: 'Mochiy Pop P One', sans-serif;
+font-family: 'Road Rage', cursive;
+font-family: 'Roboto Slab', serif;
+font-family: 'Rowdies', cursive;
+font-family: 'Sansita Swashed', cursive;
+display: inline-block;
+  text-align: center;
+}
+#h-1{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Road Rage', cursive;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Rowdies', cursive;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 70px;
+    font-weight: 700;
+    background-color: rgba(139, 0, 0, 0.486);
+    border: 1px solid red   ;
+border-radius: 20px;
+
+}
+
+div{
+    background-color: rgba(0, 0, 0, 0.829);
+    background-size: 100px;
+height: 800px;
+text-align:center;
+width: 700px;
+border: 10px solid black;
+}
